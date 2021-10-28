@@ -18,3 +18,8 @@
 `git status`: this will see the status of files within the repo(untracked, to be committed).
 `git add`: this will add 'untracked' file to be 'to be committed'.
 
+### commit
+`git commit -m 'message'`
+
+### git ignore
+
