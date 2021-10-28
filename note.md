@@ -22,4 +22,10 @@
 `git commit -m 'message'`
 
 ### git ignore
+`*.txt`: ignore all txt file
+`!a.txt`: ignore all but 'a.txt'
+`/vendor`: ignore entire folder 
+`/vendor/*.php`: ignore '.php' in '/vendor' but not other subfolders under 'vendor'
+`/vendor/**/*.php`: ignore all '.php' as well as those in subfolders.
 
+### delete revisit
